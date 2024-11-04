@@ -1,13 +1,13 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "How to Scrape News Websites: A Heuristic Web Scraping Guide"
+author: "Yuan Zhang"
+description: "This blog offers heuristic insights into scraping the content of news reports from a large-scale original URL links. The procedure covers pre-filtering, asynchronous scraping, error debugging, and post-scraping cleanup. Some Python code examples are included." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+email: "y.zhang@ikmz.uzh"
+twitter_username: "Yuan_Z1227"
+github_username: "yuanzhang1227"
+linkedin_username: "YUAN ZHANG"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
