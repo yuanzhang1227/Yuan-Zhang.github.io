@@ -4,4 +4,4 @@ I am currently a Ph.D. student in Communication Science at the University of Zur
 
 This is where I share blog posts with insights on developments, challenges, and practical solutions in Computational Social Science from my research and discussions with colleagues. For more information about my publications, please visit:
 
-[Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=aS8B5rkAAAAJ&hl=en))
+[Google Scholar](https://scholar.google.com/citations?user=aS8B5rkAAAAJ&hl=en)
