@@ -7,3 +7,4 @@ trying sentence samples......
  FROM sys.tables
  WHERE [name] = 'SomeTable'
  ```
+df
